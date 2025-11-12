@@ -18,7 +18,7 @@ TfLiteTensor* output2 = nullptr;
 uint8_t* input_buffer = nullptr;
 uint8_t* output_buffer = nullptr;
 uint8_t* output_buffer2 = nullptr;
-constexpr int kTensorArenaSize = 150000;
+constexpr int kTensorArenaSize = 164000;
 uint8_t* tensor_arena = nullptr;
 int resultados[200];
 int resultados2[200];

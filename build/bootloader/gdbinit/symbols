@@ -22,4 +22,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file C:/Users/Isaque/Desktop/esp32/build/bootloader/bootloader.elf
+file C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/bootloader/bootloader.elf

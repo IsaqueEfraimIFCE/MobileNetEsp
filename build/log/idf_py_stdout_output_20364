@@ -1,2 +1,0 @@
--- IDF_TARGET is not set, guessed 'esp32' from sdkconfig 'C:/Users/Isaque/Desktop/esp32/sdkconfig'
--- Found Git: C:/Espressif/tools/idf-git/2.44.0/cmd/git.exe (found version "2.44.0.windows.1")

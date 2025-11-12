@@ -18,8 +18,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file C:/Users/Isaque/Desktop/esp32/build/bootloader/bootloader.elf
+    add-symbol-file C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file C:/Users/Isaque/Desktop/esp32/build/app-template.elf
+file C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/app-template.elf

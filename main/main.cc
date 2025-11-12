@@ -25,7 +25,7 @@ int resultados2[200];
 }  
 
 void setup() {
-  model = tflite::GetModel(model);
+  model = tflite::GetModel(model2);
   tensor_arena=(uint8_t*)(malloc(kTensorArenaSize));
 
   if (model->version() != TFLITE_SCHEMA_VERSION) {

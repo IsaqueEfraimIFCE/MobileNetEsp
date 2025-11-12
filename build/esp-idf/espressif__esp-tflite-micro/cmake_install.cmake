@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Isaque/Desktop/esp32/managed_components/espressif__esp-tflite-micro
+# Install script for directory: C:/Users/Isaque/Desktop/esp32/MobileNetEsp/managed_components/espressif__esp-tflite-micro
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

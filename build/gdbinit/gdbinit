@@ -1,2 +1,2 @@
-source C:/Users/Isaque/Desktop/esp32/build/gdbinit/symbols
-source C:/Users/Isaque/Desktop/esp32/build/gdbinit/connect
+source C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/gdbinit/symbols
+source C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/gdbinit/connect

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Isaque/Desktop/esp32/main
+# Install script for directory: C:/Users/Isaque/Desktop/esp32/MobileNetEsp/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

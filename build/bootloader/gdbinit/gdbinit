@@ -1,2 +1,2 @@
-source C:/Users/Isaque/Desktop/esp32/build/bootloader/gdbinit/symbols
-source C:/Users/Isaque/Desktop/esp32/build/bootloader/gdbinit/connect
+source C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/bootloader/gdbinit/symbols
+source C:/Users/Isaque/Desktop/esp32/MobileNetEsp/build/bootloader/gdbinit/connect
